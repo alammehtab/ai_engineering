@@ -1,3 +1,7 @@
+# problem
+# Write a python program to add two numbers.
+
+# solution
 num_one = float(input("Please enter the first number: "))
 num_two = float(input("Please enter the second number: "))
 
